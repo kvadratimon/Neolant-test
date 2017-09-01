@@ -1,6 +1,4 @@
-# Neolant-test
-
-The test description is in `Neolant-test.docx` file.
+# list of places
 
 _**Start time:**_ 01 september 2017, 00:00AM
 
