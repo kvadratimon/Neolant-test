@@ -1,6 +1,6 @@
 # List of places
 
-Develop a web application that allows you to keep a list of places you need to visit.
+Development a web application that allows to keep a list of places need to visit.
 
 # UI:
 
@@ -36,7 +36,7 @@ _**The map shows:**_
 - Visited places
     
 _**When you click on the marker on the map, the name and address of the selected place is displayed.**_
-
+#
 _**Start time:**_ 01 september 2017, 00:00AM
 
 _**Tasks:**_
