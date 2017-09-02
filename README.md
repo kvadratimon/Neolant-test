@@ -1,4 +1,4 @@
-# List of places
+# LIST OF PLACES
 
 Development a web application that allows to keep a list of places need to visit.
 
