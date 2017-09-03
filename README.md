@@ -2,7 +2,7 @@
 
 Development a web application that allows to keep a list of places need to visit.
 
-# UI:
+# Required UI:
 
 _**The application consists of 3 parts:**_
 - Place addition form
@@ -40,3 +40,7 @@ _**When you click on the marker on the map, the name and address of the selected
 _**Start time:**_ 01 september 2017, 00:00AM
 
 _**Tasks:**_
+- [x] ~~Create place addition form~~
+- [ ] Create list of places added
+- [ ] Create map
+...
