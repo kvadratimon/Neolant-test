@@ -1,10 +1,9 @@
-/* new Vue ({
-  el:'',
+new Vue ({
+  el:'#app',
   data: {
-
+    
   },
   methods: {
 
   }
-}) */
-document.write('Hello, world!');
+})
